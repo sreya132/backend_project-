@@ -1,0 +1,1 @@
+export const DB_NAME ="application_db_name"
